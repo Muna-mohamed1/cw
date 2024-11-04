@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 
 public class mi {
-    int a=5;
+    int a=7;
     public mi(int a)
     {
         a=a;
